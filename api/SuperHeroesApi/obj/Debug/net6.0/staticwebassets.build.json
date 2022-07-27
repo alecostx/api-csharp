@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "IFaamKc+E5oFREltJy/18FolUxnOA8DXs/tx9Ffp9RU=",
+  "Source": "SuperHeroesApi",
+  "BasePath": "_content/SuperHeroesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SuperHeroesApi\\wwwroot",
+      "Source": "SuperHeroesApi",
+      "ContentRoot": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\",
+      "BasePath": "_content/SuperHeroesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\css\\index.css",
+      "SourceId": "SuperHeroesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\",
+      "BasePath": "_content/SuperHeroesApi",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\js\\index.html",
+      "SourceId": "SuperHeroesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\",
+      "BasePath": "_content/SuperHeroesApi",
+      "RelativePath": "js/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\js\\main.js",
+      "SourceId": "SuperHeroesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexandre.rodrigues\\OneDrive - Brasil Plural\\Desktop\\SuperHeroesApi\\SuperHeroesApi\\wwwroot\\",
+      "BasePath": "_content/SuperHeroesApi",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ]
+}
